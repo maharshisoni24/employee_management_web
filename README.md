@@ -21,7 +21,7 @@ A comprehensive stock management system built with React, Node.js, and MySQL.
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/maharshisoni24/employee_management_web.git
 cd stock-management-system
 ```
 
